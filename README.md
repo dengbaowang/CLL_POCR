@@ -12,7 +12,7 @@ You need to:
 1. Download SVHN and CIFAR-10 datasets into './data/'.
 2. Run the following demos:
 	```
-	python main.py --dataset svhn --model lenet --data-dir ./data/svhn/
+        python main.py --dataset svhn --model lenet --data-dir ./data/svhn/
         python main.py --dataset svhn --model preact --data-dir ./data/svhn/
 
         python main.py --dataset cifar10 --model preact --data-dir ./data/cifar/
