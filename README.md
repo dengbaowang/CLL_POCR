@@ -1,6 +1,6 @@
 # CLL_POCR
 
-This is the implemention of our IJCAI'21 paper (Learning from Complementary Labels via Partial-Output Regularization Consistency).
+This is the implementation of our IJCAI'21 paper (Learning from Complementary Labels via Partial-Output Regularization Consistency).
 
 Requirements: 
 Python 3.6, 
